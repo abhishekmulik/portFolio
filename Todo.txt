@@ -1,0 +1,9 @@
+0. photo
+1. name
+2. adreess mail id
+3. short discription
+4. links to various accounts
+5. education
+6. skills (symbols)
+7. intrests
+8. awards and certification

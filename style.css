@@ -1,0 +1,46 @@
+.personal_details{
+    font-family: 'Bebas Neue', cursive;
+    margin-left: 250px;
+}
+#profile_pic{
+    margin-left: 25px;
+    height: 150 px;
+    width: 150px;
+    border-radius: 50%;
+}
+.icons{
+    text-align: right;
+}
+
+.fa{
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 100%;
+}
+.fa:hover{
+    opacity: 0.7;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+.fa-github{
+    background: #211F1F;
+    color: white;
+}
+
+.about={
+    font-family: 'Bebas Neue', cursive;
+}
+  
